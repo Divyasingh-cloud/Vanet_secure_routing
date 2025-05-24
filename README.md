@@ -63,16 +63,20 @@ This simulation is a prototype. Future enhancements can include:
 - Lightweight digital signature integration
 
 ---
+## Output Plots
 
-## License
-This project is provided as part of an internship submission and is free for educational and academic use.
-## Visual Output
+![Hash Plot](images/hash_plot.png)  
+![Speed Plot](images/speed_plot.png)  
+![Position Plot](images/position_plot.png)
 
-![Hash Timing](images/hash_plot_placeholder.png)  
-*Example: Time taken to compute different cryptographic hashes*
+---
 
-![Speed Plot](images/speed_plot_placeholder.png)  
-*Example: Vehicle speed changes over time*
-
-![Position Plot](images/position_plot_placeholder.png)  
-*Example: Vehicle position tracking in 2D space*
+## vanet-secure-routing/
+├── main_simulation.py
+├── VANET_Assignment_Report.docx
+├── README.md
+└── images/
+    ├── hash_plot.png
+    ├── speed_plot.png
+    └── position_plot.png
+    
