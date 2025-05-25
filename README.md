@@ -65,9 +65,9 @@ This simulation is a prototype. Future enhancements can include:
 ---
 ## Output Plots
 
-![Hash Plot](images/hash_plot.png)  
-![Speed Plot](images/speed_plot.png)  
-![Position Plot](images/position_plot.png)
+![Hash Plot](https://www.imghippo.com/i/QBwr9341EY.jpg)
+![Speed Plot](https://www.imghippo.com/i/esz8175Sx.jpg)  
+![Position Plot](https://www.imghippo.com/i/Kvi3028Bs.jpg)
 
 ---
 
@@ -76,7 +76,7 @@ This simulation is a prototype. Future enhancements can include:
 ├── VANET_Assignment_Report.docx
 ├── README.md
 └── images/
-    ├── hash_plot.png
-    ├── speed_plot.png
-    └── position_plot.png
+    ├── hash_plot.jpg
+    ├── speed_plot.jpg
+    └── position_plot.jpg
     
